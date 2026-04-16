@@ -215,20 +215,4 @@ The data model is built on a star schema optimized for business intelligence que
 **Connection Flow:**
 Raw operational data → ETL Pipeline → Normalized Data Warehouse → Power BI Data Model → Interactive Dashboards
 
----
-
-## Summary of Key Business Insights
-
-| Area | Key Finding |
-|---|---|
-| Revenue | $2.9bn total with 19.94% YoY growth — strong growth trajectory |
-| Top Branch | Cairo accounts for ~35% of total revenue |
-| Top Category | Grills (مشويات) dominate sales across all branches |
-| Operations | Peak hour is 18:00; Cairo, Giza, Alexandria are understaffed |
-| Customer Base | 200K customers, flat growth — retention is the priority |
-| Service Quality | Avg rating 3.70 — below benchmark, especially in Assiut, Mansoura, Tanta |
-| Profitability | ~40% profit margin; $1.16bn profit on $2.9bn revenue |
-| Discounts | Only $401.4K in discounts — very minimal discount exposure |
-| Order Mix | Evening > Afternoon > Morning; Dine-in leads but digital channels are close |
-| Segmentation | 53.98% of revenue from low-value customers; only 12.61% high-value |
 
